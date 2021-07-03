@@ -1,8 +1,8 @@
 <div align="center">
     <h3>Hi there! 👋🤓</h3>
-    <img width="250" align='center' src="user-images.githubusercontent.com/52401617/124347061-bda65180-dbfb-11eb-9d8e-2ec83cb29b23.jpg">
-    <h3>Aiman Tahir.</h3>
-    <p>IOS developer | Block Chain Enthusiast | Video Editor | Voice Over Artist</p>
+    <img width="250" align='center' src="https://user-images.githubusercontent.com/52401617/124347740-833eb380-dbff-11eb-8c2b-58afe260f210.jpg">
+    <h3>Aiman Tahir</h3>
+    <p>IOS developer || Block Chain Enthusiast || Video Editor || Voice Over Artist</p>
     
 <h4> <a href="aimantahir1225@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/aimantahir1225/">LinkedIn</a> • <a href="https://twitter.com/aimantahir1225">Twitter</a> • <a href="https://devpost.com/aimantahir1225?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-navl">Devpost</a></h4>
 <br>    
