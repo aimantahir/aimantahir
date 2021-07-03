@@ -4,7 +4,7 @@
     <h3>Aiman Tahir</h3>
     <p>IOS developer || Block Chain Enthusiast || Video Editor || Voice Over Artist</p>
     
-<h4> <a href="aimantahir1225@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/aimantahir1225/">LinkedIn</a> • <a href="https://twitter.com/aimantahir1225">Twitter</a> • <a href="https://www.youtube.com/channel/UCWnRYT9gxFiT3zPoUbpqylQ">YouTube</a> • <a href="https://www.facebook.com/aiman.tahir.3511">Facebook</a> •</h4>
+<h4> <a href="mailto:aimantahir1225@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/aimantahir1225/">LinkedIn</a> • <a href="https://twitter.com/aimantahir1225">Twitter</a> • <a href="https://www.youtube.com/channel/UCWnRYT9gxFiT3zPoUbpqylQ">YouTube</a> • <a href="https://www.facebook.com/aiman.tahir.3511">Facebook</a> •</h4>
 <br>    
 </div>
 
