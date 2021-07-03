@@ -1,11 +1,9 @@
 <div align="center">
     <h3>Hi there! 👋🤓</h3>
-    <img width="250" align='center' src="https://user-images.githubusercontent.com/52401617/124350393-fe0ecb00-dc0d-11eb-858a-75d5ca07b1b3.png">
+    <img width="250" align='center' src="https://user-images.githubusercontent.com/52401617/124350468-5645cd00-dc0e-11eb-9ac0-2a19e782afa5.jpg">
     <h3>Aiman Tahir</h3>
     <p>IOS developer || Block Chain Enthusiast || Video Editor || Voice Over Artist</p>
-    
-  
-    
+        
 <h4> 
 
 <a href="mailto:aimantahir1225@gmail.com">Email</a> • 
