@@ -1,4 +1,4 @@
-[![Header width="100"](https://user-images.githubusercontent.com/52401617/124346696-abc3af00-dbf9-11eb-993d-7b003f748df7.jpg "Header")](https://some-url.dev/)
+[![Header width="100"](width="100" https://user-images.githubusercontent.com/52401617/124346696-abc3af00-dbf9-11eb-993d-7b003f748df7.jpg "Header")](https://some-url.dev/)
 
 
 
